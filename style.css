@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+    /* height: 100%; */
+}
+
+#mainCont{
+    margin: 0;
+    position: relative;
+    background-color: #39FF14;
+}
+
+#inputContainer{position: relative;}
+
+#video{
+    position: absolute;
+    padding: 0;
+    }
+
+#text{
+
+}
